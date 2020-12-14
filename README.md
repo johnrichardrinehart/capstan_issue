@@ -1,5 +1,5 @@
 # capstan_issue
-A repository including a reproduceable issue with capstan
+A repository including a reproducible issue with capstan
 
 Just run `./build_and_run.sh` from the root of the repository and you should see the image run fail with something like:
 
